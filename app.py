@@ -1,4 +1,4 @@
-pythonimport streamlit as st
+import streamlit as st
 import google.generativeai as genai
 from docx import Document
 from docx.shared import Pt, RGBColor, Inches
